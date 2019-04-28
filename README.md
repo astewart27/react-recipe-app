@@ -1,3 +1,5 @@
+![Image of a React Recipe App](https://github.com/astewart27/react-recipe-app/blob/master/src/img/recipe-app.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
